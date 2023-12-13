@@ -9,7 +9,7 @@ We represented these interactions using an undirected and weighted network, meas
 
 ## OBJECTIVES
 
-Is the real-life relationship reflected in social media?
+Is the real-life relationship reflected in social media interactions?
 
 ### First Objective
 To extract interactions and create a representative network of communication among users from communities related to eating disorders, fitness, depression, and self-harm, solely based on tweets.
